@@ -28,7 +28,7 @@
 ---
 ### 📝 Recent Publications
 
-> Representative papers (replace with your actual publications)
+
 
 - **[Extended phase-space symplectic-like integrators for coherent post-Newtonian Euler-Lagrange equations]** — *Guifan Pan et. al.* — **Physical Review D** [2021]  
   📄 [arXiv:2112.06136]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2112.06136)) ·
