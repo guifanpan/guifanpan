@@ -18,12 +18,12 @@
 
 ### 🔭 About Me
 
-- 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Your University] — Advisor: [Advisor Name]
-- 🌌 **Research interests:** Cosmic Microwave Background (CMB), Large-Scale Structure (LSS), Dark Energy & Modified Gravity, Cosmological Perturbation Theory
-- 📖 **Current work:** Constraining cosmological parameters using [Planck / ACT / DESI / Euclid] data / developing likelihood analysis pipelines
-- 💻 **Tools:** `Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` · `GetDist` · `JAX` · `Julia` · `CosmoSIS`
-- 📫 **Academic contact:** `[your.name@university.edu]` · [ORCID](https://orcid.org/your-id) · [arXiv](https://arxiv.org/a/your-id)
-- ⚡ **Fun fact:** I spend more time running MCMC chains on HPC clusters than sleeping 😴💻
+- 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Stellenbosch] — Advisor: [Guifan Pan]
+- 🌌 **Research interests:** Cosmic Microwave Background (CMB), Large-Scale Structure (LSS)
+- 📖 **Current work:** 'Missing Baryon Problem' [Planck / ACT / DESI / SDSS] data 
+- 💻 **Tools:** `Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` 
+- 📫 **Academic contact:** `guifanpan11@gmail.com`
+- ⚡ **Fun fact:** I spend more time running code on HPC clusters than sleeping 😴💻
 
 ---
 
@@ -31,75 +31,21 @@
 
 > Representative papers (replace with your actual publications)
 
-- **[Paper Title 1]** — *Author list* — **Journal / arXiv** [Year]  
-  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · One-sentence summary of contribution
-- **[Paper Title 2]** — *Author list* — **Journal / arXiv** [Year]  
-  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx)
-- **[Paper Title 3]** — *Author list* — **Submitted / In review**  
-  📄 Preprint link (if available)
+#- **[Paper Title 1]** — *Author list* — **Journal / arXiv** [Year]  
+#  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · One-sentence summary of contribution
+#- **[Paper Title 2]** — *Author list* — **Journal / arXiv** [Year]  
+#  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx)
+#- **[Paper Title 3]** — *Author list* — **Submitted / In review**  
+#  📄 Preprint link (if available)
 
-> 🔗 Full list on my [Google Scholar](link) or [INSPIRE-HEP](link)
-
----
-
-### 🛠️ Research Toolchain
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SLURM-4E5A65?style=for-the-badge&logo=slurm&logoColor=white" />
-</p>
-
-**Common packages:**  
-`CAMB` · `CLASS` · `Cobaya` · `MontePython` · `GetDist` · `PyMultiNest` · `healpy` · `nbodykit` · `REACT`
 
 ---
-
-### 📊 GitHub Stats (for fun)
-
-> I’m a researcher, but I also open-source some analysis code. The cards below show my GitHub activity.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=85C1E9&icon_color=85C1E9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=85C1E9" />
-</div>
-
-> 💡 Note: Most of my research code lives in private repositories or institutional GitLab — the stats above are for reference only.
-
----
-
-### 🌌 Currently…
-
-- 🔭 Analyzing [dataset] for [ISW / lensing / primordial non-Gaussianity] signals
+- 🔭 Analyzing [ACT DR6] for thermal and kinematic Sunyaev-Zel'dovich signals
 - 📚 Re-reading *Physical Foundations of Cosmology* by V. Mukhanov
-- 🧠 Learning `JAX` to speed up MCMC sampling
-- 🎙️ Preparing an online talk for [conference name]
+
 
 ---
 
-### 📫 Connect & Academic Social
-
-<p align="left">
-  <a href="mailto:your.email@university.edu">
-    <img src="https://img.shields.io/badge/Email-University-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/your-id">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your_academic_twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://inspirehep.net/authors/your-inspire-id">
-    <img src="https://img.shields.io/badge/INSPIRE--HEP-003B6F?style=for-the-badge&logo=inspire&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🌟 Let’s Connect
 
