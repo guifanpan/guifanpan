@@ -1,9 +1,9 @@
 <!--
-✨ 宇宙学博士生 · GitHub 个人介绍 README 模板
-📝 使用说明：
-  1. 将 `YOUR_USERNAME`、`YOUR_NAME`、`YOUR_UNI` 等替换为真实信息
-  2. 填写你的研究方向、常用工具、论文链接等
-  3. 可自由增删板块（如观测项目、数值模拟、博客等）
+✨ Cosmology PhD Candidate · GitHub Profile README Template
+📝 Instructions:
+  1. Replace `YOUR_USERNAME`, `YOUR_NAME`, `YOUR_UNI`, etc. with your actual information.
+  2. Fill in your research interests, tools, paper links, etc.
+  3. Freely add or remove sections (e.g., observing projects, simulations, blog).
 -->
 
 <p align="center">
@@ -16,33 +16,33 @@
 
 ---
 
-### 🔭 关于我 / About Me
+### 🔭 About Me
 
-- 🧑‍🔬 **宇宙学博士生** @ [你的大学] — 导师：[导师姓名]
-- 🌌 研究兴趣：**宇宙微波背景辐射 (CMB)**、**大尺度结构 (LSS)**、**暗能量与修正引力**、**宇宙学扰动理论**
-- 📖 当前工作：利用 [Planck / ACT / DESI / Euclid] 数据限制宇宙学参数 / 开发似然分析流程
-- 💻 科研工具：`Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` · `GetDist` · `JAX` · `Julia` · `CosmoSIS`
-- 📫 学术联系：`[your.name@university.edu]` · [ORCID](https://orcid.org/你的ID) · [arXiv](https://arxiv.org/a/你的ID)
-- ⚡ 冷知识：我用超级计算机跑 MCMC 的时间比睡觉还多 😴💻
+- 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Your University] — Advisor: [Advisor Name]
+- 🌌 **Research interests:** Cosmic Microwave Background (CMB), Large-Scale Structure (LSS), Dark Energy & Modified Gravity, Cosmological Perturbation Theory
+- 📖 **Current work:** Constraining cosmological parameters using [Planck / ACT / DESI / Euclid] data / developing likelihood analysis pipelines
+- 💻 **Tools:** `Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` · `GetDist` · `JAX` · `Julia` · `CosmoSIS`
+- 📫 **Academic contact:** `[your.name@university.edu]` · [ORCID](https://orcid.org/your-id) · [arXiv](https://arxiv.org/a/your-id)
+- ⚡ **Fun fact:** I spend more time running MCMC chains on HPC clusters than sleeping 😴💻
 
 ---
 
-### 📝 近期论文 / Recent Publications
+### 📝 Recent Publications
 
-> 基于 ADS/arXiv 链接，展示代表作（可替换为实际论文）
+> Representative papers (replace with your actual publications)
 
-- **[论文标题1]** — *作者列表* — **期刊/arXiv** [年]  
-  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · 简要一句话贡献
-- **[论文标题2]** — *作者列表* — **期刊/arXiv** [年]  
+- **[Paper Title 1]** — *Author list* — **Journal / arXiv** [Year]  
+  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · One-sentence summary of contribution
+- **[Paper Title 2]** — *Author list* — **Journal / arXiv** [Year]  
   📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx)
-- **[论文标题3]** — *作者列表* — **待提交 / 在审**  
-  📄 预印本链接（如有）
+- **[Paper Title 3]** — *Author list* — **Submitted / In review**  
+  📄 Preprint link (if available)
 
-> 🔗 完整列表请见我的 [Google Scholar](链接) 或 [INSPIRE-HEP](链接)
+> 🔗 Full list on my [Google Scholar](link) or [INSPIRE-HEP](link)
 
 ---
 
-### 🛠️ 科研环境 / Research Toolchain
+### 🛠️ Research Toolchain
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,56 +52,56 @@
   <img src="https://img.shields.io/badge/SLURM-4E5A65?style=for-the-badge&logo=slurm&logoColor=white" />
 </p>
 
-**常用软件包：**  
+**Common packages:**  
 `CAMB` · `CLASS` · `Cobaya` · `MontePython` · `GetDist` · `PyMultiNest` · `healpy` · `nbodykit` · `REACT`
 
 ---
 
-### 📊 GitHub 统计（仅作展示） / GitHub Stats (for fun)
+### 📊 GitHub Stats (for fun)
 
-> 虽然是科研工作者，但也开源部分分析代码。以下卡片展示我的 GitHub 活跃度。
+> I’m a researcher, but I also open-source some analysis code. The cards below show my GitHub activity.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=85C1E9&icon_color=85C1E9" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=85C1E9" />
 </div>
 
-> 💡 提示：科研代码多托管在私有仓库或机构 GitLab，以上数据仅供参考。
+> 💡 Note: Most of my research code lives in private repositories or institutional GitLab — the stats above are for reference only.
 
 ---
 
-### 🌌 当前正在做 / Currently…
+### 🌌 Currently…
 
-- 🔭 分析 [某个观测数据] 中的 [ISW / 透镜 / 原初非高斯性] 信号
-- 📚 重读《Physical Foundations of Cosmology》by V. Mukhanov
-- 🧠 学习 `JAX` 加速 MCMC 采样
-- 🎙️ 筹备 [某学术会议] 的线上口头报告
+- 🔭 Analyzing [dataset] for [ISW / lensing / primordial non-Gaussianity] signals
+- 📚 Re-reading *Physical Foundations of Cosmology* by V. Mukhanov
+- 🧠 Learning `JAX` to speed up MCMC sampling
+- 🎙️ Preparing an online talk for [conference name]
 
 ---
 
-### 📫 联系与学术社交 / Connect & Academic Social
+### 📫 Connect & Academic Social
 
 <p align="left">
   <a href="mailto:your.email@university.edu">
     <img src="https://img.shields.io/badge/Email-University-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://orcid.org/你的ID">
+  <a href="https://orcid.org/your-id">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
-  <a href="https://twitter.com/你的学术推特">
+  <a href="https://twitter.com/your_academic_twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://inspirehep.net/authors/你的INSPIRE号">
+  <a href="https://inspirehep.net/authors/your-inspire-id">
     <img src="https://img.shields.io/badge/INSPIRE--HEP-003B6F?style=for-the-badge&logo=inspire&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌟 欢迎交流 / Let's Connect
+### 🌟 Let’s Connect
 
-如果你对宇宙学、CMB、大尺度结构或贝叶斯推断感兴趣，欢迎邮件联系或关注我的研究。  
+If you are interested in cosmology, CMB, large-scale structure, or Bayesian inference, feel free to reach out via email or follow my research.  
 **Keep looking up!** 🔭✨
