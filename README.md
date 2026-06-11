@@ -17,12 +17,12 @@
 ---
 
 ### 🔭 About Me
-- 🧠 **Name** Guifan Pan
+- 🧠 **Name:** Guifan Pan
 - 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Stellenbosch University] — Supervisor: [Prof. Yin-Zhe Ma]
 - 🌌 **Research interests:** Cosmic Microwave Background (CMB), Large-Scale Structure (LSS)
 - 📖 **Current work:** 'Missing Baryon Problem' [Planck / ACT / DESI / SDSS] data 
 - 💻 **Tools:** `Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` 
-- 📫 **Academic contact:** `guifanpan11@gmail.com`
+- 📫 **Academic contact:** `guifanpan11@gmail.com`·`28969839@sun.ac.za`
 - ⚡ **Fun fact:** I spend more time running codes on HPC clusters than sleeping 😴💻
 
 ---
