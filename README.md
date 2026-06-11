@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GuifanPan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -26,18 +26,12 @@
 - ⚡ **Fun fact:** I spend more time running code on HPC clusters than sleeping 😴💻
 
 ---
-'''
 ### 📝 Recent Publications
 
 > Representative papers (replace with your actual publications)
 
-- **[Paper Title 1]** — *Author list* — **Journal / arXiv** [Year]  
-  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · One-sentence summary of contribution
-- **[Paper Title 2]** — *Author list* — **Journal / arXiv** [Year]  
-  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx)
-- **[Paper Title 3]** — *Author list* — **Submitted / In review**  
-  📄 Preprint link (if available)
-'''
+- **[Extended phase-space symplectic-like integrators for coherent post-Newtonian Euler-Lagrange equations]** — *Guifan Pan et. al.* — **Physical Review D** [2021]  
+  📄 [arXiv:2112.06136]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2112.06136)) ·
 
 ---
 - 🔭 Analyzing [ACT DR6] for thermal and kinematic Sunyaev-Zel'dovich signals
