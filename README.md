@@ -26,18 +26,18 @@
 - ⚡ **Fun fact:** I spend more time running code on HPC clusters than sleeping 😴💻
 
 ---
-
+'''
 ### 📝 Recent Publications
 
 > Representative papers (replace with your actual publications)
 
-#- **[Paper Title 1]** — *Author list* — **Journal / arXiv** [Year]  
-#  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · One-sentence summary of contribution
-#- **[Paper Title 2]** — *Author list* — **Journal / arXiv** [Year]  
-#  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx)
-#- **[Paper Title 3]** — *Author list* — **Submitted / In review**  
-#  📄 Preprint link (if available)
-
+- **[Paper Title 1]** — *Author list* — **Journal / arXiv** [Year]  
+  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx) · One-sentence summary of contribution
+- **[Paper Title 2]** — *Author list* — **Journal / arXiv** [Year]  
+  📄 [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) · [ADS](https://ui.adsabs.harvard.edu/abs/xxxx)
+- **[Paper Title 3]** — *Author list* — **Submitted / In review**  
+  📄 Preprint link (if available)
+'''
 
 ---
 - 🔭 Analyzing [ACT DR6] for thermal and kinematic Sunyaev-Zel'dovich signals
