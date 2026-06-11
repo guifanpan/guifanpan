@@ -7,23 +7,23 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Ph.D.+Candidate+in+Cosmology;Probing+the+Dark+Universe;CMB+%7C+Large-Scale+Structure;Welcome+to+my+research+corner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Guifan Pan;Ph.D.+Candidate+in+Cosmology;Probing+the+Dark+Universe;CMB+%7C+Large-Scale+Structure;Welcome+to+my+research+corner" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuifanPan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🔭 About Me
-
-- 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Stellenbosch] — Advisor: [Guifan Pan]
+- 🧠 **Name** Guifan Pan
+- 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Stellenbosch University] — Supervisor: [Prof. Yin-Zhe Ma]
 - 🌌 **Research interests:** Cosmic Microwave Background (CMB), Large-Scale Structure (LSS)
 - 📖 **Current work:** 'Missing Baryon Problem' [Planck / ACT / DESI / SDSS] data 
 - 💻 **Tools:** `Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` 
 - 📫 **Academic contact:** `guifanpan11@gmail.com`
-- ⚡ **Fun fact:** I spend more time running code on HPC clusters than sleeping 😴💻
+- ⚡ **Fun fact:** I spend more time running codes on HPC clusters than sleeping 😴💻
 
 ---
 ### 📝 Recent Publications
