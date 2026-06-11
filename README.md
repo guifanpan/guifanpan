@@ -7,11 +7,11 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Guifan Pan;Ph.D.+Candidate+in+Cosmology;Probing+the+Dark+Universe;CMB+%7C+Large-Scale+Structure;Welcome+to+my+research+corner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Guifan+Pan;Ph.D.+Candidate+in+Cosmology;Probing+the+Dark+Universe;CMB+%7C+Large-Scale+Structure;Welcome+to+my+research+corner" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GuifanPan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
