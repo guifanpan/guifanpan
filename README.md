@@ -7,7 +7,7 @@
 -->
 <p align="center">
   <!-- Pixel-style galaxy orbiting animation (replace with your own GIF URL) -->
-  <img src="[https://your-pixel-galaxy-animation-url.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp6dHB5MW02M29lc291cHAwMXZkbGpiNGlqdTI5dWsyeWQ2ODN4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif)" alt="Pixel art binary galaxies orbiting" width="300" />
+  <img src="https://github.com/guifanpan/guifanpan/blob/main/giphy.gif?raw=true" alt="Pixel art binary galaxies orbiting" width="300" />
 </p>
 
 <p align="center">
