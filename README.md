@@ -5,6 +5,10 @@
   2. Fill in your research interests, tools, paper links, etc.
   3. Freely add or remove sections (e.g., observing projects, simulations, blog).
 -->
+<p align="center">
+  <!-- Pixel-style galaxy orbiting animation (replace with your own GIF URL) -->
+  <img src="[https://your-pixel-galaxy-animation-url.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp6dHB5MW02M29lc291cHAwMXZkbGpiNGlqdTI5dWsyeWQ2ODN4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif)" alt="Pixel art binary galaxies orbiting" width="300" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=500&lines=Guifan+Pan;Ph.D.+Candidate+in+Cosmology;Probing+the+Dark+Universe;CMB+%7C+Large-Scale+Structure;Welcome+to+my+research+corner" alt="Typing SVG" />
