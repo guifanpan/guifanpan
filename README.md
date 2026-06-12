@@ -5,9 +5,11 @@
   2. Fill in your research interests, tools, paper links, etc.
   3. Freely add or remove sections (e.g., observing projects, simulations, blog).
 -->
+
 <p align="center">
-  <!-- Pixel-style galaxy orbiting animation (replace with your own GIF URL) -->
-  <img src="https://github.com/guifanpan/guifanpan/blob/main/giphy.gif?raw=true" alt="Pixel art binary galaxies orbiting" width="300" />
+  <div align="center" style="background-color: black;">
+    <img src="https://github.com/guifanpan/guifanpan/blob/main/giphy.gif?raw=true" alt="Pixel art binary galaxies orbiting" width="400" style="max-width:100%;"/>
+  </div>
 </p>
 
 <p align="center">
