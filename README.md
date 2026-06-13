@@ -23,21 +23,13 @@
 ---
 
 ### 🔭 About Me
-- 🧠 **Name:** Guifan Pan
+- 🧠 **Name:** Guifan Pan (潘贵璠)
 - 🧑‍🔬 **Ph.D. Candidate in Cosmology** @ [Stellenbosch University] — Supervisor: [Prof. Yin-Zhe Ma]
 - 🌌 **Research interests:** Cosmic Microwave Background (CMB), Large-Scale Structure (LSS)
-- 📖 **Current work:** 'Missing Baryon Problem' [Planck / ACT / DESI / SDSS] data 
-- 💻 **Tools:** `Python` (NumPy/SciPy/Matplotlib) · `CAMB` · `CLASS` · `Cobaya` 
+- 📖 **Current work:** 'Missing Baryon Problem' [Planck / ACT / DESI / SDSS] data, LSST Junior Associate
+- 💻 **Tools:** `Python` · `CAMB` · `CLASS` · `Cobaya` 
 - 📫 **Academic contact:** `guifanpan11@gmail.com`·`28969839@sun.ac.za`
 - ⚡ **Fun fact:** I spend more time running codes on HPC clusters than sleeping 😴💻
-
----
-### 📝 Recent Publications
-
-
-
-- **[Extended phase-space symplectic-like integrators for coherent post-Newtonian Euler-Lagrange equations]** — *Guifan Pan et. al.* — **Physical Review D** [2021]  
-  📄 [arXiv:2112.06136]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2112.06136)) ·
 
 ---
 - 🔭 Analyzing [ACT DR6] for thermal and kinematic Sunyaev-Zel'dovich signals
